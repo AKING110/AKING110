@@ -14,4 +14,4 @@ Contact : Mrakingcmd@gmail.com
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKING110&layout=compact" alt="Top language">
 
-![template_s](https://github.com/AKING110/AKING110/blob/img/wallpaperbetter_(1).jpg)
+![template_s](https://raw.githubusercontent.com/AKING110/AKING110/main/logo/wallpaperbetter_(1).jpg)
